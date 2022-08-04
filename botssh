@@ -25,7 +25,8 @@ menu() {
         msg+="▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n"
         msg+="<b>GERE SEU TESTE DE 1 HORAS GRÁTIS</b>\n"
         msg+="▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n"
-        msg+="Teste sem compromisso, Compre por 30 dias se funcionar para você!\n"
+        msg+="Teste sem compromisso\n"
+        msg+="Compre por 30 dias se funcionar para você!\n"
         msg+="▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n"
         msg+="<b>🔴CLARO 🟣VIVO 🔵TIM 🟡OI</b>\n"
         ShellBot.sendMessage --chat_id ${message_chat_id[$id]} \
